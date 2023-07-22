@@ -58,3 +58,6 @@ sudo apt install gimp
 
 #Install requirements.txt
 pip install requirements.txt
+
+#Install wm
+sudo ./wm.sh
